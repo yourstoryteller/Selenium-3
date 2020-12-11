@@ -1,0 +1,41 @@
+-------- PACKAGE 1 --------
+1. Basic Selenium Webdriver Methods
+2. Locators In Selenium
+3. XPath
+4. CSS Selector
+
+-------- PACKAGE 2 --------
+1. Handling Dropdowns
+2. Handling Checkboxes & Radio Buttons
+3. Handling Calendar UI
+4. Handling JavaScript Alerts
+
+-------- PACKAGE 3 --------
+1. Exercise - Adding Products To Cart Dynamically
+2. Waits In Selenium
+3. Fluent Wait Example
+4. Handling Multiple Windows
+
+-------- PACKAGE 4 --------
+1. Action Class In Selenium
+2. Handling Frames
+3. Limiting WebDriver Scope
+4. Exercise - Handling Calendar UI Dynamically
+
+-------- PACKAGE 5 --------
+1. Handling Tables
+2. Handling Auto-suggestive Dropdowns
+3. JavaScriptExecutor
+4. Handling HTTPS (SSL) Certifications
+
+-------- PACKAGE 6 --------
+1. Taking Screenshots
+2. Exercise - Handling Broken Links With Soft Assertion
+3. Java Streams
+4. Web Table Sort Using Java Streams
+5. Web Table Filter Using Java Streams
+
+-------- PACKAGE 7 --------
+1. Driving Data From Excel
+2. Handling Window Authentication Popups With URL
+3. File Uploading Using SendKeys
