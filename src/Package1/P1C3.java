@@ -102,7 +102,7 @@ public class P1C3 {
 		--------------------------------------------------------------------------------
 		
 		
-		======== XPATH / CSS SELECTOR VALIDATION ========
+		======== XPATH SELECTOR VALIDATION ========
 		
 		.  $x("XPath")      - Type in console to validate XPath.
 		
