@@ -63,8 +63,8 @@ public class P1C3 {
 		. ancestor :
 		  Represents the ancestors of the current node which include the parents up to the root node.
 
-        . ancestor-or-self : 
-          Represents the current node and it's ancestors.
+        	. ancestor-or-self : 
+          	  Represents the current node and it's ancestors.
 
 		. child : 
 		  Represents the children of the current node.
